@@ -1,7 +1,7 @@
 # road-to-cybersec
 learning cybersec
 
-# Hi, I'm Dani 👋
+# Hi there, this is Dani 👋
 
 🔐 Aspiring Cybersecurity Analyst  
 📍 Romania → aiming for SK     
@@ -25,7 +25,7 @@ After years working on a Microsoft project with Majorel (now Teleperformance), I
 I love solving complex problems, thinking critically under pressure and - most of all - defending people and systems. I'm especially passionate about the blue team side of security.
 
 ## 📍 Goal
-Grow into a strong cybersecurity analyst & more. My dream is to work in security and build something meaningful there.
+To grow into a skilled cybersecurity analyst, specializing in areas like SOC operations, vulnerability assessment, and IT security. My ultimate aim is to contribute meaningfully to the security of people and orgs.
 Thanks for reading!
 
 📧 Email: [idtsec@outlook.com]  
