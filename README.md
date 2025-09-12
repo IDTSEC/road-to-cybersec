@@ -4,11 +4,11 @@ learning cybersec
 # Hi there, this is Dani 👋
 
 🔐 Aspiring Cybersecurity Analyst  
-📍 Romania → aiming for SK     
+📍 RO     
 🎯 Currently studying: Google Cybersecurity Cert & CompTIA Security+  
 🧠 Learning: Kali Linux, Wireshark, Nmap  
-📚 Interests: Blue teaming, cyber defense, digital forensics  
-🌏 Languages: English & Romanian, starting 🇰🇷
+📚 Interests: blue teaming, cyber defense, vulnerability assessment, SOC analysis
+🌏 Languages: English & Romanian (with a bit of 🇰🇷)
 
 ## 🔧 Labs & Projects
 - [x] [Nmap scan analysis](labs/nmap_scanme_analysis.md)
@@ -25,7 +25,7 @@ After years working on a Microsoft project with Majorel (now Teleperformance), I
 I love solving complex problems, thinking critically under pressure and - most of all - defending people and systems. I'm especially passionate about the blue team side of security.
 
 ## 📍 Goal
-To grow into a skilled cybersecurity analyst, specializing in areas like SOC operations, vulnerability assessment, and IT security. My ultimate aim is to contribute meaningfully to the security of people and orgs.
+To grow into a skilled cybersecurity analyst, specializing in areas like SOC operations, vulnerability assessment, and IT security. I want to contribute meaningfully to the security of people and orgs.
 Thanks for reading!
 
 📧 Email: [idtsec@outlook.com]  
