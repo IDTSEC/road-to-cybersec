@@ -21,7 +21,7 @@ learning cybersec
 - 🧪 TryHackMe: [https://tryhackme.com/p/idtsec]
 
 ## 📌 Why Cybersecurity?
-After years working on a Microsoft project with Majorel (now Teleperformance), I’ve fully committed to cybersecurity. Throughout my time in resource management, I handled urgent technical requests, supported onboarding, matched engineers to high-stakes projects and worked closely with delivery managers -- even supporting cybersecurity-related roles and escalations. That exposure lit the spark.  
+Throughout my time in resource management with Microsoft, I handled urgent technical requests, supported onboarding, matched engineers to high-stakes projects and worked closely with delivery managers -- even supporting cybersecurity-related roles and escalations. That exposure lit the spark.  
 I love solving complex problems, thinking critically under pressure and - most of all - defending people and systems. I'm especially passionate about the blue team side of security.
 
 ## 📍 Goal
