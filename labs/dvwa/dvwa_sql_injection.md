@@ -2,17 +2,17 @@
 target: DVWA
 date: 12.9.2025
 
-## Summary
+### Summary
 A quick SQL injection test against DVWA (sec level: low). The app accepted unsanitized input in the User ID field, which allowed injection of SQL to enumarate database rows.
 
 ### Vulnerability: SQL Injection - authentication bypass/data extraction
 
-# Environment
+### Environment
 - Kali Linux (local VM)
 - Apache2 + PHP (with mysqli) + MariaDB
 - DVWA configured with a dedicated user + database
 
-# Steps performed
+### Steps performed
 - Open DVWA: http://127.0.0.1/DVWA/login.php
 - Login using default credentials: admin/password
 - While in DVWA: security set to LOW
