@@ -18,4 +18,11 @@ SQL Injection - authentication bypass/data extraction
 - Login using default credentials: admin/password
 - While in DVWA: security set to LOW
 - Submit 1' OR '1'=1 (SQL Injection) -> return multiple user records
+
+### Result?
 <img width="317" height="447" alt="newsql" src="https://github.com/user-attachments/assets/fd97c375-274e-46b6-93f7-1c9df43106f7" />
+
+## Defense
+Safe coding practices needed:
+- prepared statements/parameterized queries (keeping data & SQL commands separate - even if the input is malicious, it won't change the meaning of the query, basically being treated just as text)
+- input validation & sanitization: checking that the user input is what we expect (letters/numbers for username), and cleaning it to remove dangerous characters
