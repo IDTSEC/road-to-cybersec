@@ -17,3 +17,4 @@ A quick SQL injection test against DVWA (sec level: low). The app accepted unsan
 - Login using default credentials: admin/password
 - While in DVWA: security set to LOW
 - Submit 1' OR '1'=1 (SQL Injection) -> return multiple user records
+<img width="466" height="471" alt="sqli" src="https://github.com/user-attachments/assets/eb7c24d8-9e0f-417a-88fd-d3a6e182bde2" />
