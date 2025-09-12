@@ -1,7 +1,7 @@
 # road-to-cybersec
 learning cybersec
 
-# Hi there, this is Dani 👋
+## Hi there, this is Dani 👋
 
 🔐 Aspiring Cybersecurity Analyst  
 📍 RO     
