@@ -26,8 +26,9 @@ I love solving complex problems, thinking critically under pressure and - most o
 
 ## 📍 Goal
 To grow into a skilled cybersecurity analyst, specializing in areas like SOC operations, vulnerability assessment, and IT security. I want to contribute meaningfully to the security of people and orgs.
-Thanks for reading!
 
 📧 Email: [idtsec@outlook.com]  
 🌐 GitHub: [https://github.com/IDTSEC]  
 📎 LinkedIn: [] 
+
+Thanks for reading!
