@@ -5,7 +5,7 @@ learning cybersec
 
 🔐 Aspiring Cybersecurity Analyst  
 📍 RO     
-🎯 Currently studying: Google Cybersecurity Cert & CompTIA Security+  
+🎯 Now studying: Google Cybersecurity Cert & CompTIA Security+  
 🧠 Learning: Kali Linux, Wireshark, Nmap  
 📚 Interests: blue teaming, cyber defense, vulnerability assessment, SOC analysis
 🌏 Languages: English & Romanian (with a bit of 🇰🇷)
