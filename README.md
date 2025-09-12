@@ -1,5 +1,5 @@
 # road-to-cybersec
-learning cybersec
+learning cybersec, sharing my projects & thoughts in this journey
 
 ## Hi there, this is Dani 👋
 
