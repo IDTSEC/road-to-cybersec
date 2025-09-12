@@ -12,7 +12,7 @@ learning cybersec
 
 ## 🔧 Labs & Projects
 - [x] [Nmap scan analysis](labs/nmap_scanme_analysis.md)
-- [x] DVWA exploitation writeup – []
+- [x] [DVWA SQL Injection](labs/dvwa/dvwa_sql_injection.md)
 - [] Snort IDS setup & log analysis – coming soon
 
 ## 🛠️ Certs & Progress
