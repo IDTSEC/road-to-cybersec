@@ -19,3 +19,4 @@ SQL Injection - authentication bypass/data extraction
 - While in DVWA: security set to LOW
 - Submit 1' OR '1'=1 (SQL Injection) -> return multiple user records
 <img width="466" height="471" alt="sqli" src="https://github.com/user-attachments/assets/eb7c24d8-9e0f-417a-88fd-d3a6e182bde2" />
+<img width="317" height="447" alt="newsql" src="https://github.com/user-attachments/assets/fd97c375-274e-46b6-93f7-1c9df43106f7" />
