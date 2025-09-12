@@ -5,7 +5,7 @@ date: 12.9.2025
 ## Summary
 A quick SQL injection test against DVWA (sec level: low). The app accepted unsanitized input in the User ID field, which allowed injection of SQL to enumarate database rows.
 
-# Vulnerability: SQL Injection - authentication bypass/data extraction
+### Vulnerability: SQL Injection - authentication bypass/data extraction
 
 # Environment
 - Kali Linux (local VM)
