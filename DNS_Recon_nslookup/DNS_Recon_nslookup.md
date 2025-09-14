@@ -34,7 +34,7 @@ HTTP headers for resoled IPs
 nslookup example.com > 1_a_record.txt
 
 # MX / NS / TXT / SOA / AAAA
-nslookup -type=mx example.com > 2_mx.txt
-nslookup -type=ns example.com > 3_ns.txt
-nslookup -type=txt example.com > 4_txt.txt 
+nslookup -type=mx example.com > 2_mx.txt  
+nslookup -type=ns example.com > 3_ns.txt  
+nslookup -type=txt example.com > 4_txt.txt   
 ... etc
