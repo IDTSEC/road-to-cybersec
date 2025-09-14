@@ -13,6 +13,7 @@ learning cybersec, sharing my projects & thoughts in this journey
 ## 🔧 Labs & Projects
 - [x] [Nmap scan analysis](labs/nmap_scanme_analysis.md)
 - [x] [DVWA SQL Injection](labs/dvwa/dvwa_sql_injection.md)
+- [x] [DNS Recon nslookup](labs/DNS_Recon_nslookup/readme.md) 
 - [] Snort IDS setup & log analysis – coming soon
 
 ## 🛠️ Certs & Progress
