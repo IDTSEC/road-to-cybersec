@@ -5,4 +5,4 @@ Non-authoritative answer:
 example.com	mail exchanger = 0 .
 
 Authoritative answers can be found from:
-
+(my note: example.com does not have an MX record)
