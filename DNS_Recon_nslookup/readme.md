@@ -10,7 +10,7 @@ Target used: example.com (reversed IANA domain used for testing; safe example)
 
 # Files:
 Raw DNS outputs:
-- '1_a_record.txt'
+- ['1_a_record.txt'](1_a_record.txt)
 - '2_mx.txt'
 - '3_ns.txt'
 - '4_txt.txt'
