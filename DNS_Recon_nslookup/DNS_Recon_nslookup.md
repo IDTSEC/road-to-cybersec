@@ -15,18 +15,18 @@ Raw DNS outputs:
 - '3_ns.txt'
 - '4_txt.txt'
 - '5_soa.txt'
-- '6_aaaa.txt'
+- '6_aaaa.txt'  
 Reverse lookups:
-- 'ips.txt'
-- '7_reverse.txt'
-Authoritative queries:
-- '8_soa_via_ns.txt'
-- '9_any_via_ns.txt'
-HTTP headers for resoled IPs
-- '11_http_headers.txt'
-- 'findings_summary.txt' : readable summary
-- 'nslookup_session.txt' : terminal transcript
-- 'run_nslookup_soc.sh' : optional automation script
+- 'ips.txt'  
+- '7_reverse.txt'  
+Authoritative queries:  
+- '8_soa_via_ns.txt'  
+- '9_any_via_ns.txt'  
+HTTP headers for resoled IPs  
+- '11_http_headers.txt'  
+- 'findings_summary.txt' : readable summary  
+- 'nslookup_session.txt' : terminal transcript  
+- 'run_nslookup_soc.sh' : optional automation script  
 
 ## (some) commands used
 '''bash
