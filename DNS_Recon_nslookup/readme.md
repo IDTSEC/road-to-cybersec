@@ -18,7 +18,7 @@ Raw DNS outputs:
 - '6_aaaa.txt'    
 
 ## (some) commands used
-'''bash
+```bash  
 # Basic A record
 nslookup example.com > 1_a_record.txt
 
