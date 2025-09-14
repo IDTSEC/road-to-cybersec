@@ -12,4 +12,4 @@ example.com
 	minimum = 3600
 
 Authoritative answers can be found from:
-
+(my note: example.com does not have a SOA record)
