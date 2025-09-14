@@ -1,0 +1,8 @@
+Server:		10.0.2.3
+Address:	10.0.2.3#53
+
+Non-authoritative answer:
+example.com	mail exchanger = 0 .
+
+Authoritative answers can be found from:
+

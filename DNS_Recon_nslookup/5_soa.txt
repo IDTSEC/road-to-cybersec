@@ -1,0 +1,15 @@
+Server:		10.0.2.3
+Address:	10.0.2.3#53
+
+Non-authoritative answer:
+example.com
+	origin = ns.icann.org
+	mail addr = noc.dns.icann.org
+	serial = 2025082231
+	refresh = 7200
+	retry = 3600
+	expire = 1209600
+	minimum = 3600
+
+Authoritative answers can be found from:
+

@@ -1,0 +1,29 @@
+Server:		10.0.2.3
+Address:	10.0.2.3#53
+
+Non-authoritative answer:
+Name:	example.com
+Address: 23.215.0.136
+Name:	example.com
+Address: 23.192.228.80
+Name:	example.com
+Address: 23.220.75.232
+Name:	example.com
+Address: 23.220.75.245
+Name:	example.com
+Address: 23.192.228.84
+Name:	example.com
+Address: 23.215.0.138
+Name:	example.com
+Address: 2600:1408:ec00:36::1736:7f31
+Name:	example.com
+Address: 2600:1406:5e00:6::17ce:bc12
+Name:	example.com
+Address: 2600:1406:5e00:6::17ce:bc1b
+Name:	example.com
+Address: 2600:1406:bc00:53::b81e:94c8
+Name:	example.com
+Address: 2600:1406:bc00:53::b81e:94ce
+Name:	example.com
+Address: 2600:1408:ec00:36::1736:7f24
+
