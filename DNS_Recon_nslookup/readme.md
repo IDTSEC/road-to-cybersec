@@ -1,7 +1,7 @@
 ## DNS Recon - nslookup project (SOC-style)
 
 # Summary
-This small lab demonstrates DNS reconnaissance w/ nslookup.
+This small lab demonstrates DNS reconnaissance w/ nslookup.  
 Target used: example.com (reversed IANA domain used for testing; safe example)
 
 # What's the connection with SOC?
