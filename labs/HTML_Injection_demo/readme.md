@@ -14,4 +14,5 @@
 - from now, the browser will stop interpreting user input as HTML
 
 ## files used
-- [initial vulnerability file](vu;m
+- [initial vulnerability file - raw code](vuln.html)
+- [vulnerability fixed - raw code](vuln_fixed.html)
