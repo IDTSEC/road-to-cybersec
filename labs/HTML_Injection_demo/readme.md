@@ -12,3 +12,6 @@
 ## solution?
 - escape '<' and '>' before printing input ('safe.html')
 - from now, the browser will stop interpreting user input as HTML
+
+## files used
+- [initial vulnerability file](vu;m
