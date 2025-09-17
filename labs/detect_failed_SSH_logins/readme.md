@@ -8,3 +8,5 @@
 - finds lines with 'Failed Password'
 - extracts the source IPs and counts how many times each IP failed
 - sorts the list by most suspicious IPs
+
+- still pending for the files to upload
